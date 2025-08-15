@@ -1,0 +1,4 @@
+name = "cors-anywhere"
+main = "server.js"
+compatibility_date = "2025-08-15"
+compatibility-flag = ["nodejs_compat"]
